@@ -1,0 +1,12 @@
+{
+  "name": "astra-agent",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node astra-agent.mjs"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0"
+  }
+}
