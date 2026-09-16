@@ -1,0 +1,24 @@
+{
+  "id": "Astra-01",
+  "startingCapitalNote": "TESTNET funds only — no real revenue claim is valid until pointed at a real chain with real funds.",
+  "wallet": {
+    "address": "0xb2fb85C5de32f3A6BF7d090ed233f286002e08aF",
+    "privateKey": "0x68c5316154cac021b30b556e0d60fcfe29ab2796afdcd9419f2dbcc4a84d9d50"
+  },
+  "chosenChain": "Ethereum Sepolia",
+  "history": [
+    {
+      "timestamp": "2026-09-16T22:26:16.283Z",
+      "action": "GENERATED_WALLET",
+      "reason": "No PRIVATE_KEY supplied — generated a new testnet wallet. Fund this address from a faucet: 0xb2fb85C5de32f3A6BF7d090ed233f286002e08aF",
+      "address": "0xb2fb85C5de32f3A6BF7d090ed233f286002e08aF"
+    },
+    {
+      "timestamp": "2026-09-16T22:26:16.491Z",
+      "action": "WAITING_ON_FUNDS",
+      "reason": "Checked Ethereum Sepolia — real on-chain balance is 0. Fund 0xb2fb85C5de32f3A6BF7d090ed233f286002e08aF via https://sepoliafaucet.com or https://www.alchemy.com/faucets/ethereum-sepolia. No action taken.",
+      "chain": "Ethereum Sepolia",
+      "address": "0xb2fb85C5de32f3A6BF7d090ed233f286002e08aF"
+    }
+  ]
+}
